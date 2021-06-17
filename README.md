@@ -1,1 +1,2 @@
-# kubenatesopen
+# kubernetes
+Kubernetes playground
